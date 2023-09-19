@@ -1,9 +1,10 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:journal/auth/signup_page.dart';
-import 'package:journal/screens/home_screen.dart';
-import 'package:journal/widgets/form_container_widget.dart';
+import 'package:notetakingapp/auth/signup_page.dart';
+import 'package:notetakingapp/screens/home_screen.dart';
+import 'package:notetakingapp/widgets/form_container_widget.dart';
+
 
 import 'forebae_auth_service.dart';
 

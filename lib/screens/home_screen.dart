@@ -4,11 +4,11 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:journal/auth/login_page.dart';
-import 'package:journal/screens/create_journal.dart';
-import 'package:journal/screens/read_journal.dart';
-import 'package:journal/style/app_stype.dart';
-import 'package:journal/widgets/journal_card.dart';
+import 'package:notetakingapp/auth/login_page.dart';
+import 'package:notetakingapp/screens/create_journal.dart';
+import 'package:notetakingapp/screens/read_journal.dart';
+import 'package:notetakingapp/style/app_stype.dart';
+import 'package:notetakingapp/widgets/journal_card.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

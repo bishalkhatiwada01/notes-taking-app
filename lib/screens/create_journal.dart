@@ -2,7 +2,8 @@ import 'dart:math';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:journal/style/app_stype.dart';
+import 'package:notetakingapp/style/app_stype.dart';
+
 
 
 class JournalEditor extends StatefulWidget {

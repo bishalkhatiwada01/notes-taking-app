@@ -1,7 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:journal/screens/update_journal.dart';
-import 'package:journal/style/app_stype.dart';
+import 'package:notetakingapp/screens/update_journal.dart';
+import 'package:notetakingapp/style/app_stype.dart';
+
 
 class JournalReader extends StatefulWidget {
   JournalReader(this.doc, {Key? key}) : super(key: key);
